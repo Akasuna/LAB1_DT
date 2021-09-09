@@ -1,5 +1,5 @@
 var MongoClient = require('mongodb').MongoClient;
-var url = "mongodb+srv://new_user1010:Ch33k15c4v@cluster0.gt6tl.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
+var url = "mongodb+srv://<username>:<password>@cluster0.gt6tl.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
 
 //cars = [];
 
